@@ -15,7 +15,7 @@ npm start
 npm run build
 ```
 ##
-food order app created with REACT 
-You can add foods in the menu to your cart and change the amount.
+food order app created with REACT  
+You can add foods in the menu to your cart and change the amount.  
 
-
+![Screenshot (124)](https://user-images.githubusercontent.com/73068793/139816235-693ee73c-9fe7-48a8-acaa-044ad7a9cddd.png)
